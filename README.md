@@ -4,3 +4,4 @@ I learned about important services provided by AWS, such as IAM, EC2, VPC, S3, L
 Finally, I applied what I learned by deploying my resume on an S3 bucket. I created a simple website and hosted it on AWS to showcase my skills. Overall, I gained knowledge about controlling user access, setting up virtual servers, securing networks, storing files in the cloud, running code without servers, managing domain names, and deploying websites. Deploying my resume was a great way to demonstrate what I learned and showcase my abilities.
 # Here's the link to the resume deployed on S3 Bucket
 http://ajabresume.s3-website-ap-northeast-1.amazonaws.com
+![image](https://github.com/AjabNauman958/AWS_Track_Bytewise_Batch-2/assets/114978635/7b5d9c52-5772-4b0a-bffb-1375dcdd042f)
